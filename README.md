@@ -49,20 +49,6 @@ The main question behind the model is:
 
 The key parameter is `k_rp`, which captures the sensitivity of the sovereign risk premium to debt.
 
-## Repository contents
-
-```text
-.
-├── model/
-│   └── open_fiscal.mod
-├── docs/
-│   └── model_description.tex
-├── outputs/
-│   └── irfs/
-├── figures/
-├── README.md
-└── LICENSE
-
 ## Reproducibility
 
 To replicate the simulations:
@@ -85,3 +71,19 @@ Dynare will generate impulse response functions for the following variables:
 - primary balance
 - public debt
 - sovereign risk premium
+
+
+## Repository contents
+
+```text
+.
+├── model/
+│   └── open_fiscal.mod
+├── docs/
+│   └── model_description.tex
+├── outputs/
+│   └── irfs/
+├── figures/
+├── README.md
+└── LICENSE
+
