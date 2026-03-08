@@ -1,4 +1,4 @@
-# Open Lite Fiscal Risk Mexico
+# Open Fiscal Risk Mexico
 
 This repository contains a small open-economy macroeconomic model with a fiscal block, designed to study the relationship between fiscal consolidation, public debt, and sovereign risk premia in Mexico.
 
