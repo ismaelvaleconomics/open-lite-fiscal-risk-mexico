@@ -14,7 +14,7 @@ Fiscal consolidation → Higher primary balance → Lower debt → Lower risk pr
 
 The most important parameter in the model is:
 
-k_rp
+$$k_{rp}$$
 
 which captures the sensitivity of the sovereign risk premium to public debt.
 
