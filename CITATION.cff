@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Open Lite Fiscal Risk Mexico"
+message: "If you use this model in your research, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Valverde Ambriz
+    given-names: Ismael Dionisio
+    affiliation: Facultad de Economía, Universidad Nacional Autónoma de México
+ 
+repository-code: https://github.com/your-username/open-lite-fiscal-risk-mexico
+
+abstract: >
+  This repository contains a small open-economy macroeconomic model with a fiscal block designed to study the relationship between fiscal consolidation, public debt dynamics, and sovereign risk premia in Mexico. The model is implemented in Dynare and documented in LaTeX.
+
+keywords:
+  - macroeconomics
+  - sovereign risk
+  - fiscal policy
+  - public debt
+  - open economy
+  - dynare
+  - mexico
+
+license: MIT
+
+version: 1.0.0
+date-released: 2026-03-07
