@@ -62,3 +62,26 @@ The key parameter is `k_rp`, which captures the sensitivity of the sovereign ris
 ├── figures/
 ├── README.md
 └── LICENSE
+
+## Reproducibility
+
+To replicate the simulations:
+
+1. Install Dynare (version 5 or later).
+2. Open MATLAB or GNU Octave.
+3. Navigate to the `model` folder.
+4. Run:
+
+dynare open_fiscal.mod
+
+Dynare will generate impulse response functions for the following variables:
+
+- output gap
+- inflation
+- interest rate
+- exchange rate
+- government spending
+- tax revenues
+- primary balance
+- public debt
+- sovereign risk premium
