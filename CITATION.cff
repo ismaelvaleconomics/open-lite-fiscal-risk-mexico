@@ -8,7 +8,7 @@ authors:
     given-names: Ismael Dionisio
     affiliation: Facultad de Economía, Universidad Nacional Autónoma de México
  
-repository-code: https://github.com/your-username/open-lite-fiscal-risk-mexico
+repository-code: https://github.com/ismaelvaleconomics/open-lite-fiscal-risk-mexico
 
 abstract: >
   This repository contains a small open-economy macroeconomic model with a fiscal block designed to study the relationship between fiscal consolidation, public debt dynamics, and sovereign risk premia in Mexico. The model is implemented in Dynare and documented in LaTeX.
